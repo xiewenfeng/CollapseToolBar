@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">沉浸式状态栏</string>
+    <string name="collapse_with_fit_system_window">使用fitsSystemWindows实现沉浸式状态栏</string>
+    <string name="collapse_transparent_statusbar">状态栏透明实现沉浸式状态栏</string>
+    <string name="collapse_recyclerView">列表式沉浸式状态栏</string>
+    <string name="large_text">在各种不同的应用中，大家可能会经常见到这样一个效果：Toolbar是透明的，有着一个背景图片以及大标题，随着页面向上滑动，其标题逐渐缩放到Toolbar上，而背景图片则在滑动到一定程度后变成了Toolbar的颜色，这种效果也即是折叠式效果。其实这种效果在GitHub上面已经有很多开源库实现了，但是Google在其推出的Design Library库中也给出了一个这种控件，让我们很方便地实现了这种效果。这个控件是CollapsingToolbarLayout，它是一个增强型的FrameLayout。那么，本篇文章就给大家详细地介绍该控件的使用方法以及注意事项。在各种不同的应用中，大家可能会经常见到这样一个效果：Toolbar是透明的，有着一个背景图片以及大标题，随着页面向上滑动，其标题逐渐缩放到Toolbar上，而背景图片则在滑动到一定程度后变成了Toolbar的颜色，这种效果也即是折叠式效果。其实这种效果在GitHub上面已经有很多开源库实现了，但是Google在其推出的Design Library库中也给出了一个这种控件，让我们很方便地实现了这种效果。这个控件是CollapsingToolbarLayout，它是一个增强型的FrameLayout。那么，本篇文章就给大家详细地介绍该控件的使用方法以及注意事项。在各种不同的应用中，大家可能会经常见到这样一个效果：Toolbar是透明的，有着一个背景图片以及大标题，随着页面向上滑动，其标题逐渐缩放到Toolbar上，而背景图片则在滑动到一定程度后变成了Toolbar的颜色，这种效果也即是折叠式效果。其实这种效果在GitHub上面已经有很多开源库实现了，但是Google在其推出的Design Library库中也给出了一个这种控件，让我们很方便地实现了这种效果。这个控件是CollapsingToolbarLayout，它是一个增强型的FrameLayout。那么，本篇文章就给大家详细地介绍该控件的使用方法以及注意事项。</string>
+</resources>
